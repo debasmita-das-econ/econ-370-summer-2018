@@ -3,16 +3,17 @@
 
 |  | [Debasmita Das](https://debasmita-das-econ.github.io) |
 |--------------|--------------------------------------------------------------|
-| Email | das57@purdue.edu  |
-| Office | KRAN B024J |
+| Email | <das57@purdue.edu>  |
+| Office Location | KRAN B024J |
 | Lectures | Mon - Fri, 3.20 - 5.30 pm, RAWL 1011  |
+| Course Website | [Blackboard](https://mycourses.purdue.edu/) |
 
 |---------------------|--------------------------------------------|
 | Instructor:         | Debasmita Das                              |
 | E-mail:             | das57@purdue.edu                           |
 | Office Location:    | KRAN B024J                                 |
 | Lectures:           | Mon - Fri, 3.20 - 5.30 pm, RAWL 1011       |
-| Course Website:     | Blackboard, https://mycourses.purdue.edu/  |
+| Course Website:     |  |
 
 
 ### Course Description:
