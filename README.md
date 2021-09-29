@@ -1,6 +1,12 @@
 # ECON 370 International Trade, Summer 2018, May 14 - June 8 #
 
 
+|  | [Debasmita Das](https://debasmita-das-econ.github.io) |
+|--------------|--------------------------------------------------------------|
+| Email | das57@purdue.edu  |
+| Office | KRAN B024J |
+| Lectures | Mon - Fri, 3.20 - 5.30 pm, RAWL 1011  |
+
 |---------------------|--------------------------------------------|
 | Instructor:         | Debasmita Das                              |
 | E-mail:             | das57@purdue.edu                           |
