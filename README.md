@@ -20,6 +20,6 @@ current trade policy disputes. At the completion of this course, students will b
 * Respond intelligently to popular discussions of economic issues
 
 
-
+**Course materials are based on Feenstra and Taylor, "International Trade".**
 
 
