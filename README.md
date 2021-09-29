@@ -1,13 +1,13 @@
 # ECON 370 International Trade, Summer 2018, May 14 - June 8 #
 
 
-|------------------------------------------------------------|
-|Instructor: | Debasmita Das |
-| E-mail: | das57@purdue.edu |
-| Office Location: | KRAN B024J |
-| Lectures: | Mon - Fri, 3.20 - 5.30 pm, RAWL 1011 |
-| Course Website:| Blackboard, https://mycourses.purdue.edu/|
-|------------------------------------------------------------|
+|---------------------|--------------------------------------------|
+| Instructor:         | Debasmita Das                              |
+| E-mail:             | das57@purdue.edu                           |
+| Office Location:    | KRAN B024J                                 |
+| Lectures:           | Mon - Fri, 3.20 - 5.30 pm, RAWL 1011       |
+| Course Website:     | Blackboard, https://mycourses.purdue.edu/  |
+
 
 ### Course Description:
 This course will analyze the causes and consequences of international trade. We start by studying why nations trade, what they trade, and who gains (or not) from this trade. We will then
